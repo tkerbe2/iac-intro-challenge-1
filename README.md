@@ -25,15 +25,21 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 
 ## GitHub Steps
 
-### 1. Log into your person GitHub and fork this repo.
-
-<img width="1093" height="60" alt="image" src="https://github.com/user-attachments/assets/77124980-a04b-4a61-8754-4184c91a55b2" />
-
-### 2. On your local machine clone this repo  
+### 1. Log into your personal [GitHub](https://github.com/) and fork this repo.
 
 <img width="1093" height="60" alt="image" src="https://github.com/user-attachments/assets/06e231be-c11c-4f6d-a35f-2b5fc638311f" />
 
+### 2. On your local machine open the code.
+You can access and modify this code how you want. Ultimately all that matters is the changes get pushed to your GitHub repo.
+- You can open this code remotely in Visual Studio Code (which is what I am doing in this walk-through)
+- In Visual Studio Code you will want the Remote Repositories extension.
 
+<img width="350" height="78" alt="image" src="https://github.com/user-attachments/assets/f7712344-6ed0-4fb8-a828-71814907931a" />
+
+- You can clone the repo to your local machine and push the changes remotely.
+
+
+### 3. Clone the code to your local repo.
 
 ## HCP Terraform Steps
 
