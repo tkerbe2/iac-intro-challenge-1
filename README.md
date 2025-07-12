@@ -20,7 +20,10 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 - Open [HCP Terraform](https://app.terraform.io/app) and create a new workspace under workspaces.
 - Set variables.
 - Perform a plan and apply.
-- Deploy your code!
+- Deploy your code.
+- Verify resources in the AWS Console.
+*- (Optional) Add an SSH allow policy to the EC2 instance security group.*
+*- (Optional) Log into the EC2 instance.*
 
 <br>
 
@@ -157,6 +160,16 @@ We learned how to create and obtain these in the following course section:
 <img width="1119" height="614" alt="image" src="https://github.com/user-attachments/assets/4e59cd53-e1d4-461f-a1ed-2c4d5114639c" />
 
 - If your plan is successful you can go ahead and scroll down and hit confirm to deploy the infrastructure.
+<img width="1125" height="568" alt="image" src="https://github.com/user-attachments/assets/8a1b3109-ffd8-4632-9455-7b6ebae5122f" />
+
+### 10. Apply your plan.
+
+- Scroll down to your successful plan and click confirm & apply.
+
+<img width="833" height="237" alt="image" src="https://github.com/user-attachments/assets/f0894f15-610d-42ee-b0ca-3f6c088bc0d9" />
+
+- ⚠️ This will actually create the resources in AWS.
+
 
 ***
 
