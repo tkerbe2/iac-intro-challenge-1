@@ -144,6 +144,10 @@ We learned how to create and obtain these in the following course section:
 
 <img width="1146" height="280" alt="image" src="https://github.com/user-attachments/assets/5c8071a6-6410-4c5a-b691-d571ba07c6e0" />
 
+***
+
+<br>
+
 ### 8. Perform a plan and apply.
 
 - Go to Runs on the left navigation pane.
@@ -154,6 +158,10 @@ We learned how to create and obtain these in the following course section:
 
 <img width="601" height="345" alt="image" src="https://github.com/user-attachments/assets/0224b5c1-7a2d-4972-95d9-5f762e6ba28b" />
 
+***
+
+<br>
+
 ### 9. Plan results.
 
 - If your plan errors you need to continue fixing your code.
@@ -162,6 +170,10 @@ We learned how to create and obtain these in the following course section:
 - If your plan is successful you can go ahead and scroll down and hit confirm to deploy the infrastructure.
 <img width="1125" height="568" alt="image" src="https://github.com/user-attachments/assets/8a1b3109-ffd8-4632-9455-7b6ebae5122f" />
 
+***
+
+<br>
+
 ### 10. Apply your plan.
 
 - Scroll down to your successful plan and click confirm & apply.
@@ -169,7 +181,6 @@ We learned how to create and obtain these in the following course section:
 <img width="833" height="237" alt="image" src="https://github.com/user-attachments/assets/f0894f15-610d-42ee-b0ca-3f6c088bc0d9" />
 
 - ⚠️ This will actually create the resources in AWS.
-
 
 ***
 
