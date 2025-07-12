@@ -46,8 +46,7 @@ You can access and modify this code how you want. Ultimately all that matters is
 - You can open this code remotely in Visual Studio Code (which is what I am doing in this walk-through)
 - In Visual Studio Code you will want the Remote Repositories extension.
 
-
-<img width="442" height="378" alt="image" src="https://github.com/user-attachments/assets/ebc64217-010a-45ce-97f7-1525b4df37c2" />
+<img width="350" height="78" alt="image" src="https://github.com/user-attachments/assets/f7712344-6ed0-4fb8-a828-71814907931a" />
 
 - On the bottom left click on the >< button to open the remote repositories
 
@@ -56,8 +55,6 @@ You can access and modify this code how you want. Ultimately all that matters is
 <img width="403" height="126" alt="image" src="https://github.com/user-attachments/assets/81daf9db-48fc-4734-9757-862f67cfed93" />
 <img width="633" height="203" alt="image" src="https://github.com/user-attachments/assets/cd75d0f7-96c7-4efd-90c7-593055ed8521" />
 <img width="629" height="161" alt="image" src="https://github.com/user-attachments/assets/92c0609f-a41d-47b8-9771-68f1a80c3968" />
-
-<img width="350" height="78" alt="image" src="https://github.com/user-attachments/assets/f7712344-6ed0-4fb8-a828-71814907931a" />
 
 - Trust the workspace so your extensions work.
 
