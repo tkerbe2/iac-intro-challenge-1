@@ -27,27 +27,29 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 
 <br>
 
+### 1. Log into the [HCP Terraform](https://app.terraform.io/app).
+
 <img width="279" height="252" alt="image" src="https://github.com/user-attachments/assets/c9348106-8030-4268-8fbe-6edceb16096e" />
 
 <img width="214" height="140" alt="image" src="https://github.com/user-attachments/assets/601316c3-de52-48da-a196-08cc9c422808" />
 
-### 1. Select a project or use the default.
+### 2. Select a project or use the default.
 
 <img width="601" height="314" alt="image" src="https://github.com/user-attachments/assets/389c3f1b-2efa-43ba-b274-b62c7901fe0e" />
 
-### 2. Select Version Control Workflow.
+### 3. Select Version Control Workflow.
 
 <img width="1074" height="386" alt="image" src="https://github.com/user-attachments/assets/6c7bfb74-1fbd-4473-8e7b-b4424b2388e0" />
 
-### 3. Click on GitHub and choose a repo. (You may have to log into and authenticate to GitHub first to allow this)
+### 4. Click on GitHub and choose a repo. (You may have to log into and authenticate to GitHub first to allow this)
 
 <img width="736" height="520" alt="image" src="https://github.com/user-attachments/assets/d02583ef-8186-4276-a9e4-2d8034177d07" />
 
-### 4. Give it a name and click create.
+### 5. Give it a name and click create.
 
 <img width="101" height="54" alt="image" src="https://github.com/user-attachments/assets/22783e84-9b9b-490c-a007-a1272b5f6f37" />
 
-### 5. Go to the new workspace overview and click on the Configure variables button. Alternatively you can just click on variables.
+### 6. Go to the new workspace overview and click on the Configure variables button. Alternatively you can just click on variables.
 
 <img width="652" height="138" alt="image" src="https://github.com/user-attachments/assets/4271d3e7-ff78-419d-a2a3-40900270a819" />
 
