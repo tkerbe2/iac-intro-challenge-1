@@ -16,6 +16,10 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 - Make the necessary fixes to the code.
 - Open [HCP Terraform](https://app.terraform.io/app) and create a new workspace under workspaces
 
+
+
+## HCP Terraform Steps
+
 <img width="279" height="252" alt="image" src="https://github.com/user-attachments/assets/c9348106-8030-4268-8fbe-6edceb16096e" />
 
 <img width="214" height="140" alt="image" src="https://github.com/user-attachments/assets/601316c3-de52-48da-a196-08cc9c422808" />
@@ -24,9 +28,24 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 
 <img width="601" height="314" alt="image" src="https://github.com/user-attachments/assets/389c3f1b-2efa-43ba-b274-b62c7901fe0e" />
 
-- Select Version Control Workflow
+- Select Version Control Workflow.
 
 <img width="1074" height="386" alt="image" src="https://github.com/user-attachments/assets/6c7bfb74-1fbd-4473-8e7b-b4424b2388e0" />
 
-  
-- Any place you see a comment you will want to investigate and fix whatever is necessary.
+- Click on GitHub and choose a repo. (You may have to log into and authenticate to GitHub first to allow this)
+
+<img width="736" height="520" alt="image" src="https://github.com/user-attachments/assets/d02583ef-8186-4276-a9e4-2d8034177d07" />
+
+- Give it a name and click create.
+
+<img width="101" height="54" alt="image" src="https://github.com/user-attachments/assets/22783e84-9b9b-490c-a007-a1272b5f6f37" />
+
+- Go to the new workspace overview and click on the Configure variables button. Alternatively you can just click on variables.
+
+<img width="652" height="138" alt="image" src="https://github.com/user-attachments/assets/4271d3e7-ff78-419d-a2a3-40900270a819" />
+
+<img width="276" height="232" alt="image" src="https://github.com/user-attachments/assets/1519f23f-1a43-4511-8e4d-997598d11270" />
+
+
+
+
