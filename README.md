@@ -60,7 +60,13 @@ You can access and modify this code how you want. Ultimately all that matters is
 
 <br>
 
+- You may need to sign into GitHub and authorize it for this to work first if you didn't do that already.
+
+<br>
+
 <img width="629" height="161" alt="image" src="https://github.com/user-attachments/assets/92c0609f-a41d-47b8-9771-68f1a80c3968" />
+
+<br>
 
 - Trust the workspace so your extensions work.
 
