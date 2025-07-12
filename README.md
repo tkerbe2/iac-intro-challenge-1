@@ -22,8 +22,8 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 - Perform a plan and apply.
 - Deploy your code.
 - Verify resources in the AWS Console.
-*- (Optional) Add an SSH allow policy to the EC2 instance security group.*
-*- (Optional) Log into the EC2 instance.*
+- *(Optional) Add an SSH allow policy to the EC2 instance security group.*
+- *(Optional) Log into the EC2 instance.*
 
 <br>
 
