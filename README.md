@@ -25,6 +25,9 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 - *(Optional) Add an SSH allow policy to the EC2 instance security group.*
 - *(Optional) Log into the EC2 instance.*
 
+
+# 🏁 When ready start challenge walk-through here
+
 <br>
 
 ## GitHub and Visual Studio Code Steps
@@ -43,18 +46,36 @@ You can access and modify this code how you want. Ultimately all that matters is
 - You can open this code remotely in Visual Studio Code (which is what I am doing in this walk-through)
 - In Visual Studio Code you will want the Remote Repositories extension.
 
+
+<img width="442" height="378" alt="image" src="https://github.com/user-attachments/assets/ebc64217-010a-45ce-97f7-1525b4df37c2" />
+
+- On the bottom left click on the >< button to open the remote repositories
+
+<br>
+
+<img width="403" height="126" alt="image" src="https://github.com/user-attachments/assets/81daf9db-48fc-4734-9757-862f67cfed93" />
+<img width="633" height="203" alt="image" src="https://github.com/user-attachments/assets/cd75d0f7-96c7-4efd-90c7-593055ed8521" />
+<img width="629" height="161" alt="image" src="https://github.com/user-attachments/assets/92c0609f-a41d-47b8-9771-68f1a80c3968" />
+
 <img width="350" height="78" alt="image" src="https://github.com/user-attachments/assets/f7712344-6ed0-4fb8-a828-71814907931a" />
 
 - Trust the workspace so your extensions work.
 
-<img width="442" height="378" alt="image" src="https://github.com/user-attachments/assets/ebc64217-010a-45ce-97f7-1525b4df37c2" />
+### OR
+
+- You can clone the repo to your local machine and push the changes remotely.
+- [Follow these steps on Microsoft Learn](https://learn.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=activity-bar)
+
+<br>
 
 ***
 
 <br>
 
-### 3. Fix the code!
-Look for commented code and start finding solutions. This is where you actually will be spending a majority of your time. Use your resources!
+### 3. 🛑 Fix the code!
+- Look for commented code and start finding solutions. This is where you actually will be spending a majority of your time in this challenge. Use your resources and other lab material!
+- Remeber you're role playing as a DevOps Engineer and your colleague has given you some unfinished code. Read their comments and try to fix it so that you can deploy it using HCP Terraform.
+- Once you're ready and believe you've fixed the code you can proceed. 
 
 ***
 
@@ -65,22 +86,6 @@ Look for commented code and start finding solutions. This is where you actually 
 <img width="404" height="171" alt="image" src="https://github.com/user-attachments/assets/5ba69cb4-d926-44d7-930a-12f8542ef754" />
 
 ***
-
-<br>
-
-- On the bottom left click on the >< button to open the remote repositories
-
-<br>
-
-<img width="403" height="126" alt="image" src="https://github.com/user-attachments/assets/81daf9db-48fc-4734-9757-862f67cfed93" />
-<img width="633" height="203" alt="image" src="https://github.com/user-attachments/assets/cd75d0f7-96c7-4efd-90c7-593055ed8521" />
-<img width="629" height="161" alt="image" src="https://github.com/user-attachments/assets/92c0609f-a41d-47b8-9771-68f1a80c3968" />
-
-
-### OR
-
-- You can clone the repo to your local machine and push the changes remotely.
-- [Follow these steps on Microsoft Learn](https://learn.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=activity-bar)
 
 <br>
 
