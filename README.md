@@ -30,21 +30,30 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 
 <img width="1093" height="60" alt="image" src="https://github.com/user-attachments/assets/06e231be-c11c-4f6d-a35f-2b5fc638311f" />
 
+***
+
+<br>
+
 ### 2. On your local machine open the code.
 You can access and modify this code how you want. Ultimately all that matters is the changes get pushed to your GitHub repo.
 
-a. You can open this code remotely in Visual Studio Code (which is what I am doing in this walk-through)
-b. In Visual Studio Code you will want the Remote Repositories extension.
+- You can open this code remotely in Visual Studio Code (which is what I am doing in this walk-through)
+- In Visual Studio Code you will want the Remote Repositories extension.
 
 <img width="350" height="78" alt="image" src="https://github.com/user-attachments/assets/f7712344-6ed0-4fb8-a828-71814907931a" />
 
 ### 3. Fix the code!
 Look for commented code and start finding solutions. 
 
+***
+
+<br>
+
 ### 4. Commit and Push your changes.
 
 <img width="404" height="171" alt="image" src="https://github.com/user-attachments/assets/5ba69cb4-d926-44d7-930a-12f8542ef754" />
 
+***
 
 <br>
 
@@ -76,19 +85,39 @@ Look for commented code and start finding solutions.
 
 <img width="214" height="140" alt="image" src="https://github.com/user-attachments/assets/601316c3-de52-48da-a196-08cc9c422808" />
 
+***
+
+<br>
+
 ### 2. Select a project or use the default.
 
 <img width="601" height="314" alt="image" src="https://github.com/user-attachments/assets/389c3f1b-2efa-43ba-b274-b62c7901fe0e" />
+
+***
+
+<br>
 
 ### 3. Select Version Control Workflow.
 
 <img width="1074" height="386" alt="image" src="https://github.com/user-attachments/assets/6c7bfb74-1fbd-4473-8e7b-b4424b2388e0" />
 
+***
+
+<br>
+
 ### 4. Click on GitHub and choose a repo. (You may have to log into and authenticate to GitHub first to allow this)
 
 <img width="736" height="520" alt="image" src="https://github.com/user-attachments/assets/d02583ef-8186-4276-a9e4-2d8034177d07" />
 
+***
+
+<br>
+
 ### 5. Give it a name and click create.
+
+***
+
+<br>
 
 <img width="101" height="54" alt="image" src="https://github.com/user-attachments/assets/22783e84-9b9b-490c-a007-a1272b5f6f37" />
 
@@ -100,6 +129,8 @@ Look for commented code and start finding solutions.
 
 <img width="276" height="232" alt="image" src="https://github.com/user-attachments/assets/1519f23f-1a43-4511-8e4d-997598d11270" />
 
+***
 
+<br>
 
 
