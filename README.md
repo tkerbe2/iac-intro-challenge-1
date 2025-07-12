@@ -27,7 +27,7 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 
 <br>
 
-### 1. Log into the [HCP Terraform](https://app.terraform.io/app).
+### 1. Log into the [HCP Terraform](https://app.terraform.io/app) web console.
 
 <img width="279" height="252" alt="image" src="https://github.com/user-attachments/assets/c9348106-8030-4268-8fbe-6edceb16096e" />
 
