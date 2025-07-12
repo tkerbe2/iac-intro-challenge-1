@@ -45,8 +45,16 @@ You can access and modify this code how you want. Ultimately all that matters is
 
 <img width="350" height="78" alt="image" src="https://github.com/user-attachments/assets/f7712344-6ed0-4fb8-a828-71814907931a" />
 
+- Trust the workspace so your extensions work.
+
+<img width="442" height="378" alt="image" src="https://github.com/user-attachments/assets/ebc64217-010a-45ce-97f7-1525b4df37c2" />
+
+***
+
+<br>
+
 ### 3. Fix the code!
-Look for commented code and start finding solutions. 
+Look for commented code and start finding solutions. This is where you actually will be spending a majority of your time. Use your resources!
 
 ***
 
