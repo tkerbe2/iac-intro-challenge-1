@@ -129,11 +129,11 @@ When you're finished modifying your code and think you have the right solution, 
 
 ### 5. Give it a name and click create.
 
+<img width="101" height="54" alt="image" src="https://github.com/user-attachments/assets/22783e84-9b9b-490c-a007-a1272b5f6f37" />
+
 ***
 
 <br>
-
-<img width="101" height="54" alt="image" src="https://github.com/user-attachments/assets/22783e84-9b9b-490c-a007-a1272b5f6f37" />
 
 ### 6. Go to the new workspace overview and click on the Configure variables button. Alternatively you can just click on variables.
 
