@@ -133,7 +133,7 @@ Look for commented code and start finding solutions.
 
 ### 7. Create two new workspace env variables for AWS.
 We learned how to create and obtain these in the following course section:
-> [Setup a new AWS account - Guided Lab](https://github.com/tkerbe2/tkdev-aws-account-setup)
+[Setup a new AWS account - Guided Lab](https://github.com/tkerbe2/tkdev-aws-account-setup)
 
 <img width="607" height="629" alt="image" src="https://github.com/user-attachments/assets/e030a27d-1967-4829-8f9d-f7dd7a54c865" />
 
