@@ -36,6 +36,8 @@ You can access and modify this code how you want. Ultimately all that matters is
 
 <img width="350" height="78" alt="image" src="https://github.com/user-attachments/assets/f7712344-6ed0-4fb8-a828-71814907931a" />
 
+### OR
+
 - You can clone the repo to your local machine and push the changes remotely.
 
 
