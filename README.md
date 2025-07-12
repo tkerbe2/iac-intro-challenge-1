@@ -131,6 +131,8 @@ Look for commented code and start finding solutions.
 
 ***
 
+<br>
+
 ### 7. Create two new workspace env variables for AWS.
 We learned how to create and obtain these in the following course section:
 [Setup a new AWS account - Guided Lab](https://github.com/tkerbe2/tkdev-aws-account-setup)
@@ -138,5 +140,24 @@ We learned how to create and obtain these in the following course section:
 <img width="607" height="629" alt="image" src="https://github.com/user-attachments/assets/e030a27d-1967-4829-8f9d-f7dd7a54c865" />
 
 <img width="1146" height="280" alt="image" src="https://github.com/user-attachments/assets/5c8071a6-6410-4c5a-b691-d571ba07c6e0" />
+
+### 8. Perform a plan and apply.
+
+- Go to Runs on the left navigation pane.
+
+<img width="268" height="300" alt="image" src="https://github.com/user-attachments/assets/a3a490ae-1b0b-4235-91ea-ae0d49f44cb5" />
+
+- On the right side click new run and click plan and apply.
+
+<img width="601" height="345" alt="image" src="https://github.com/user-attachments/assets/0224b5c1-7a2d-4972-95d9-5f762e6ba28b" />
+
+### 9. Plan results.
+
+- If your plan errors you need to continue fixing your code.
+<img width="1119" height="614" alt="image" src="https://github.com/user-attachments/assets/4e59cd53-e1d4-461f-a1ed-2c4d5114639c" />
+
+- If your plan is successful you can go ahead and scroll down and hit confirm to deploy the infrastructure.
+
+***
 
 <br>
