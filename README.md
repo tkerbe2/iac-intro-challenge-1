@@ -85,6 +85,9 @@ Look for commented code and start finding solutions. This is where you actually 
 <br>
 
 ## HCP Terraform Steps
+When you're finished modifying your code and think you have the right solution, you can test it with HCP Terraform. These next steps will walk your through this process. 
+
+***
 
 <br>
 
