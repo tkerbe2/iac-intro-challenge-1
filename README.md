@@ -25,6 +25,8 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 
 ## HCP Terraform Steps
 
+<br>
+
 <img width="279" height="252" alt="image" src="https://github.com/user-attachments/assets/c9348106-8030-4268-8fbe-6edceb16096e" />
 
 <img width="214" height="140" alt="image" src="https://github.com/user-attachments/assets/601316c3-de52-48da-a196-08cc9c422808" />
