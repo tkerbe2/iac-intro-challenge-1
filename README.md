@@ -32,12 +32,14 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 
 ### 2. On your local machine open the code.
 You can access and modify this code how you want. Ultimately all that matters is the changes get pushed to your GitHub repo.
+
 a. You can open this code remotely in Visual Studio Code (which is what I am doing in this walk-through)
 b. In Visual Studio Code you will want the Remote Repositories extension.
+
 <img width="350" height="78" alt="image" src="https://github.com/user-attachments/assets/f7712344-6ed0-4fb8-a828-71814907931a" />
 
 ### 3. Fix the code!
-a. Look for commented code and start finding solutions. 
+Look for commented code and start finding solutions. 
 
 ### 4. Commit and Push your changes.
 
