@@ -31,6 +31,8 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 
 <img width="279" height="252" alt="image" src="https://github.com/user-attachments/assets/c9348106-8030-4268-8fbe-6edceb16096e" />
 
+<br>
+
 <img width="214" height="140" alt="image" src="https://github.com/user-attachments/assets/601316c3-de52-48da-a196-08cc9c422808" />
 
 ### 2. Select a project or use the default.
@@ -52,6 +54,8 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 ### 6. Go to the new workspace overview and click on the Configure variables button. Alternatively you can just click on variables.
 
 <img width="652" height="138" alt="image" src="https://github.com/user-attachments/assets/4271d3e7-ff78-419d-a2a3-40900270a819" />
+
+<br>
 
 <img width="276" height="232" alt="image" src="https://github.com/user-attachments/assets/1519f23f-1a43-4511-8e4d-997598d11270" />
 
