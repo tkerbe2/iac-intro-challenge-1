@@ -6,6 +6,8 @@
 
 The code in this branch is fully functional and is the answer to Challenge 1 for how your code should look to successfully deploy it from HCP Terraform. Ensure you follow the remaining steps in this document to cleanup your environment and review what you've learned.
 
+<br>
+
 # 🧼 Cleanup
 
 ### 1. Cleanup and destroy your resources.
@@ -25,6 +27,7 @@ The code in this branch is fully functional and is the answer to Challenge 1 for
 - You will have to verify and once you have it will run a destroy plan.
 - Click confirm and apply again and destroy the resources.
 
+<br>
 
 # ✨ Congratulations!
 
