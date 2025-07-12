@@ -16,6 +16,7 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 - Open the it with Visual Studio Code.
 - Look for comments marked by a #.
 - Make the necessary fixes to the code.
+- Commit your code changes.
 - Open [HCP Terraform](https://app.terraform.io/app) and create a new workspace under workspaces.
 - Set variables.
 - Perform a plan and apply.
@@ -23,7 +24,7 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 
 <br>
 
-## GitHub Steps
+## GitHub and Visual Studio Code Steps
 
 ### 1. Log into your personal [GitHub](https://github.com/) and fork this repo.
 
@@ -34,6 +35,13 @@ You can access and modify this code how you want. Ultimately all that matters is
 - You can open this code remotely in Visual Studio Code (which is what I am doing in this walk-through)
 - In Visual Studio Code you will want the Remote Repositories extension.
 <img width="350" height="78" alt="image" src="https://github.com/user-attachments/assets/f7712344-6ed0-4fb8-a828-71814907931a" />
+
+### 3. Fix the code!
+Look for commented code and start finding solutions. 
+
+### 4. Commit and Push your changes.
+
+<img width="301" height="176" alt="image" src="https://github.com/user-attachments/assets/2ba15f36-475f-4a42-bd1a-3d7b877c8dc4" />
 
 <br>
 
@@ -51,8 +59,7 @@ You can access and modify this code how you want. Ultimately all that matters is
 - You can clone the repo to your local machine and push the changes remotely.
 - [Follow these steps on Microsoft Learn](https://learn.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=activity-bar)
 
-
-### 3. Clone the code to your local repo.
+<br>
 
 ## HCP Terraform Steps
 
