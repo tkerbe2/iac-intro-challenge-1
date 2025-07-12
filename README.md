@@ -41,7 +41,8 @@ Look for commented code and start finding solutions.
 
 ### 4. Commit and Push your changes.
 
-<img width="301" height="176" alt="image" src="https://github.com/user-attachments/assets/2ba15f36-475f-4a42-bd1a-3d7b877c8dc4" />
+<img width="404" height="171" alt="image" src="https://github.com/user-attachments/assets/5ba69cb4-d926-44d7-930a-12f8542ef754" />
+
 
 <br>
 
