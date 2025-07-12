@@ -23,6 +23,18 @@ When you're finished or you have gotten stuck - the "fixed" branch of this repo 
 
 <br>
 
+## GitHub Steps
+
+### 1. Log into your person GitHub and fork this repo.
+
+<img width="1093" height="60" alt="image" src="https://github.com/user-attachments/assets/77124980-a04b-4a61-8754-4184c91a55b2" />
+
+### 2. On your local machine clone this repo  
+
+<img width="1093" height="60" alt="image" src="https://github.com/user-attachments/assets/06e231be-c11c-4f6d-a35f-2b5fc638311f" />
+
+
+
 ## HCP Terraform Steps
 
 <br>
