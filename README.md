@@ -196,3 +196,9 @@ We learned how to create and obtain these in the following course section:
 ***
 
 <br>
+
+## 🔑 Testing and Solution
+You will want to log into the AWS web console and look for your resources in VPC and EC2 services.
+
+If you're having any issues at all and want to see the solution or think you're ready to grade yourself proceed to the solution page:
+[Challenge 1 Solution](https://github.com/tkerbe2/tkdev-aws-terraform-challenge-1/blob/fixed/README.md)
