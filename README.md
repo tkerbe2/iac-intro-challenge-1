@@ -2,7 +2,7 @@
 
 <br>
 
-# 🛠️ Fix and deploy Terraform to AWS - Challenge 1
+# 🛠️ Challenge 1 - Fix and deploy Terraform to AWS
 
 Welcome to your first challenge! In this challenge you will put yourself in the role of a DevOps professional who has been given this code from a colleague. Your colleague is trying to deploy a simple EC2 instance to AWS that they can SSH into and run some tests.
 Your colleague has given you this code and mentioned that they're not very experienced with Terraform and need some help. I've left parts of this code blank and expect you to use your current knowledge, existing course material, and resources such as the Terraform Registry to make some simple fixes and deploy it. 
